@@ -1,4 +1,12 @@
-# movilidad_urbana_y_productiva_económica_en_LATAM
+Título: # Movilidad Urbana y Productividad económica en LATAM
+Objetivo / Pregunta de negocio (1–2 líneas)
+Datos (fuente + contenido)
+Proceso (pasos de limpieza + análisis + herramientas usadas)
+Entregable (enlace al dashboard/notebook)
+Insights (3 puntos clave: qué aprendiste)
+Recomendación / Siguiente paso (qué harías si fuera una tarea laboral real)
+Enlaces (GitHub, dashboard, diapositivas, etc.)
+
 El objetivo del banco es identificar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población. Se realizó un informe ejecutivo contestando a preguntas del Negocio:¿qué relación existe entre la movilidad urbana (congestión, tiempos de viaje) y la productividad económica (PIB per cápita)? y ¿Qué ciudad : Bogotá, Lima o Buenos Aires o alguna otra en particular, muestra la mayor correlación significativa entre altos niveles de congestión vehicular y bajos indicadores de productividad económica, sugiriendo ser una ciudad prioritaria para inversión en infraestructura de transporte? </p>
  Las variables clave utilizadas fueron los promedio de retraso total (en minutos) provocado por la congestión en todas las vias y el producto interno bruto per capita en dolares, el cual refleja el nivel de productividad economica por habitante en las ciudades de LATAM.</p>
  El año analizado fue 2024, se analizaron 15 ciudades de los paises: Brazil, Colombia, Argentina, México, Perú, Uruguay y Chile </p>
