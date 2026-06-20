@@ -14,8 +14,11 @@ Se realizó un informe ejecutivo contestando a preguntas del Negocio:¿qué rela
 * <p align="justify"> Menciona las validaciones visuales empleadas (distribuciones, outliers, tendencias generales). En el boxplot, se observa un marcado valor atipico en el comportamiento de los minutos de congestión, ya que esta fuera del rango intercuartil. En el histograma se observa mayor concentracion de PIB en rangos medios y muestran un sesgo al extremo derecho, lo que indica verias ciudades con PIB bajo </p>
 Las herramientas utilizadas fueron: Python-seaborn, matplotlib y JupiterNootbook </p>
 
-# Entregable (enlace al dashboard/notebook)
+# Entregable:
 
+🔗 **Notebook del proyecto:**
+
+[Ver análisis completo en Jupyter Notebook](https://github.com/estephaniemoncada-cell/movilidad_urbana_y_productividad_economica/blob/main/mobility_economy_project_student.ipynb)
 
 # Insights 
 * <p align="justify"> Se observa que los paises existe cierta tendencia entre las ciudades con mayor PIB ya que presentan mayor movilidad vial como lo son México y SaoPaulo, sin embargo, no es una tendencia lineal ya que la ciudad de Montevideo tiene mayor productividad pero muy baja congestión vial, lo que nos señala que pueden existir otros factores que contribuyen a la alta congestión vial.
@@ -25,7 +28,7 @@ A continuación se muestra el boxplot de tiempos de retraso (JamsDelay) </p>
 <img width="520" height="476" alt="image" src="https://github.com/user-attachments/assets/fa699266-7e3a-4d1e-bb80-c66c0a57cacf" />
 
 
-# Recomendación / Siguiente paso (qué harías si fuera una tarea laboral real)
+# Recomendación:
 * <p align="justify"> Es necesario validar la informacion de retraso total en minutos, ya que muestra valores atipicos, durante el analisis, verificar si fue error de captura o en realidad un tema por las caracteristicas de la ciudad. La ciudad con mayor movilidad vehicular es la ciudad de México, seguido de Sao Paulo, lo que estas dos ciudades tienen en comun, es que cuentan con el mayor número de poblacion entre los paises de LATAM, lo que podria explicar esta relacion de movilidad urbana, es un tema que necesitara analisis adicionales.
 * <p align="justify">  Las ciudades proritarias para inversión en infraestructura de transporte son ciudad de México y SaoPaulo, ya que son las que mayor congestión vial tienen, por lo que podria verse un aumento de PIB mejorando la movilidad.
 
